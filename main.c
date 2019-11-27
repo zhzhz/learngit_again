@@ -9,3 +9,4 @@ void main()
     printf("i am good\n");
     while (1);      //程序停止在这里
 }
+git tracks changes
