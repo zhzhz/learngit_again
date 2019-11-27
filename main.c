@@ -6,5 +6,6 @@ void main()
 {
     LED = 0;        //点亮小灯
     LED1 = 1;
+    printf("i am good\n");
     while (1);      //程序停止在这里
 }
